@@ -1,147 +1,146 @@
 // eslint-disable-next-line no-unused-vars
 const fenomenler = [
   {
-    "number": 1,
-    "profile": "Instagram",
-    "followers": 539446645,
-    "posts": 7202,
-    "platform": "Instagram"
+    number: 1,
+    profile: "Instagram",
+    followers: 539446645,
+    posts: 7202,
+    platform: "Instagram",
   },
   {
-    "number": 2,
-    "profile": "Cristiano Ronaldo",
-    "followers": 473864939,
-    "posts": 3338,
-    "platform": "Instagram"
+    number: 2,
+    profile: "Cristiano Ronaldo",
+    followers: 473864939,
+    posts: 3338,
+    platform: "Instagram",
   },
   {
-    "number": 3,
-    "profile": "Kylie",
-    "followers": 364542529,
-    "posts": 6935,
-    "platform": "Instagram"
+    number: 3,
+    profile: "Kylie",
+    followers: 364542529,
+    posts: 6935,
+    platform: "Instagram",
   },
   {
-    "number": 4,
-    "profile": "Leo Messi",
-    "followers": 355790796,
-    "posts": 890,
-    "platform": "Instagram"
+    number: 4,
+    profile: "Leo Messi",
+    followers: 355790796,
+    posts: 890,
+    platform: "Instagram",
   },
   {
-    "number": 5,
-    "profile": "Selena Gomez",
-    "followers": 341579063,
-    "posts": 1828,
-    "platform": "Instagram"
+    number: 5,
+    profile: "Selena Gomez",
+    followers: 341579063,
+    posts: 1828,
+    platform: "Instagram",
   },
   {
-    "number": 1,
-    "profile": "Barack Obama",
-    "followers": 132473746,
-    "posts": 16563,
-    "platform": "Twitter"
+    number: 1,
+    profile: "Barack Obama",
+    followers: 132473746,
+    posts: 16563,
+    platform: "Twitter",
   },
   {
-    "number": 2,
-    "profile": "Justin Biber",
-    "followers": 114165664,
-    "posts": 31371,
-    "platform": "Twitter"
+    number: 2,
+    profile: "Justin Biber",
+    followers: 114165664,
+    posts: 31371,
+    platform: "Twitter",
   },
   {
-    "number": 3,
-    "profile": "KATY PERRY",
-    "followers": 108950737,
-    "posts": 11715,
-    "platform": "Twitter"
+    number: 3,
+    profile: "KATY PERRY",
+    followers: 108950737,
+    posts: 11715,
+    platform: "Twitter",
   },
   {
-    "number": 4,
-    "profile": "Rihanna",
-    "followers": 106989611,
-    "posts": 10632,
-    "platform": "Twitter"
+    number: 4,
+    profile: "Rihanna",
+    followers: 106989611,
+    posts: 10632,
+    platform: "Twitter",
   },
   {
-    "number": 5,
-    "profile": "Elon Musk",
-    "followers": 102819963,
-    "posts": 18921,
-    "platform": "Twitter"
+    number: 5,
+    profile: "Elon Musk",
+    followers: 102819963,
+    posts: 18921,
+    platform: "Twitter",
   },
   {
-    "number": 1,
-    "profile": "Ninja",
-    "followers": 18296006,
-    "posts": "NA",
-    "platform": "Twitch"
+    number: 1,
+    profile: "Ninja",
+    followers: 18296006,
+    posts: "NA",
+    platform: "Twitch",
   },
   {
-    "number": 2,
-    "profile": "auronplay",
-    "followers": 13377575,
-    "posts": "NA",
-    "platform": "Twitch"
+    number: 2,
+    profile: "auronplay",
+    followers: 13377575,
+    posts: "NA",
+    platform: "Twitch",
   },
   {
-    "number": 3,
-    "profile": "Rubius",
-    "followers": 12524137,
-    "posts": "NA",
-    "platform": "Twitch"
+    number: 3,
+    profile: "Rubius",
+    followers: 12524137,
+    posts: "NA",
+    platform: "Twitch",
   },
   {
-    "number": 4,
-    "profile": "Tfue",
-    "followers": 11145556,
-    "posts": "NA",
-    "platform": "Twitch"
+    number: 4,
+    profile: "Tfue",
+    followers: 11145556,
+    posts: "NA",
+    platform: "Twitch",
   },
   {
-    "number": 5,
-    "profile": "shroud",
-    "followers": 10244388,
-    "posts": "NA",
-    "platform": "Twitch"
+    number: 5,
+    profile: "shroud",
+    followers: 10244388,
+    posts: "NA",
+    platform: "Twitch",
   },
   {
-    "number": 1,
-    "profile": "charli damelio",
-    "followers": 141200000,
-    "posts": 2211,
-    "platform": "TikTok"
+    number: 1,
+    profile: "charli damelio",
+    followers: 141200000,
+    posts: 2211,
+    platform: "TikTok",
   },
   {
-    "number": 2,
-    "profile": "Khabane lame",
-    "followers": 139700000,
-    "posts": 1055,
-    "platform": "TikTok"
+    number: 2,
+    profile: "Khabane lame",
+    followers: 139700000,
+    posts: 1055,
+    platform: "TikTok",
   },
   {
-    "number": 3,
-    "profile": "Bella Poarch",
-    "followers": 89900000,
-    "posts": 470,
-    "platform": "TikTok"
+    number: 3,
+    profile: "Bella Poarch",
+    followers: 89900000,
+    posts: 470,
+    platform: "TikTok",
   },
   {
-    "number": 4,
-    "profile": "Addison Rae",
-    "followers": 87700000,
-    "posts": 1683,
-    "platform": "TikTok"
+    number: 4,
+    profile: "Addison Rae",
+    followers: 87700000,
+    posts: 1683,
+    platform: "TikTok",
   },
   {
-    "number": 5,
-    "profile": "Will Smith",
-    "followers": 72200000,
-    "posts": 136,
-    "platform": "TikTok"
+    number: 5,
+    profile: "Will Smith",
+    followers: 72200000,
+    posts: 136,
+    platform: "TikTok",
   },
 ];
-
 
 /* Görev 1 (otomatik kontrol testi yapılmayacak):
 Aşağıdakileri konsolda gösterim (console.log) işlemi gerçekleştirerek, yukarıda verilen fenomenler dizisindeki verilere erişim alıştırması yapın:
@@ -168,9 +167,10 @@ Aşağıdaki işlemleri yapmak için indekseGoreFenomen işlevini kullanın:
 NOT: DÖNDÜĞÜNÜZ DİZİN YUKARIDAKİ BİÇİMLE EŞLEŞMESİ GEREKİR, YA DA TESTİ GEÇMEYECEKTİR!
 ÖRNEK: fenomenler dizisi ve 3 sayısı ile indekseGoreFenomen çağrılırsa, `3. indekste bulunan fenomen: Leo Messi' */
 
-function indekseGoreFenomen(feno, indeks) {
-  return `${indeks}. indekste bulunan fenomen: ${feno[indeks].profile}`;
+function indekseGoreFenomen(fenomenlerDizisi, indeks) {
+  return `${indeks}. indekste bulunan fenomen: ${fenomenlerDizisi[indeks].profile}`;
 }
+
 console.log(indekseGoreFenomen(fenomenler, 3));
 
 /*  Görev 4:
@@ -199,7 +199,6 @@ console.log(profilListesi(fenomenler));
     "posts": 7202,
     "platform": "Instagram"
   },*/
-
 
 /* Görev 5:
 Aşağıdakileri yapmak için fenomenSil'i kullanın:
@@ -241,22 +240,24 @@ function fenomenEkle(
   profilAdi,
   takipciSayisi,
   gönderim,
-  platformAdi) {
-
+  platformAdi
+) {
   const yeniFenoObjesi = {
-    "number": siraNo,
-    "profile": profilAdi,
-    "followers": takipciSayisi,
-    "posts": gönderim,
-    "platform": platformAdi
-  }
+    number: siraNo,
+    profile: profilAdi,
+    followers: takipciSayisi,
+    posts: gönderim,
+    platform: platformAdi,
+  };
   let yeniFenoDizisi = [...fenomenDizisi];
   yeniFenoDizisi.push(yeniFenoObjesi);
 
   //let yeniFenoDizisi = [...fenomenDizisi, yeniFenoObjesi] şeklinde de olur..
   return yeniFenoDizisi;
 }
-console.log(fenomenEkle(fenomenler, 6, "Workintech", 10000000, 2022, "Instagram"));
+console.log(
+  fenomenEkle(fenomenler, 6, "Workintech", 10000000, 2022, "Instagram")
+);
 
 /* Görev 7:
 Aşağıdakileri yapmak için enFenomenler'yi kullanın:
@@ -269,7 +270,7 @@ Aşağıdakileri yapmak için enFenomenler'yi kullanın:
 function enFenomenler(fenomenlerDizini) {
   const enFenomenProfilleri = [];
   for (let i = 0; i < fenomenlerDizini.length; i++) {
-    if (fenomenlerDizini[i].follwers > 100000000) {
+    if (fenomenlerDizini[i].followers > 100000000) {
       enFenomenProfilleri.push(fenomenlerDizini[i]["profile"]);
     }
   }
@@ -294,8 +295,7 @@ function fenomenGonderimSayisi(fenomenlerDizini, profilAdi) {
   }
 }
 
-console.log(fenomenGonderimSayisi(fenomenler, 'Will Smith'));
-
+console.log(fenomenGonderimSayisi(fenomenler, "Will Smith"));
 
 /* Görev 9:
 Aşağıdakileri yapmak için platformaGoreCokGonderiYapanFenomen'ni kullanın:
@@ -308,18 +308,32 @@ Not: Gönderi sayısı belli olmayan (NA) hesaba katmayın.
 Örnek: platformaGoreCokGonderiYapanFenomen(fenomenler, 'TikTok') çağrıldığında "charli damelio" dönmelidir
 */
 
-function platformaGoreCokGonderiYapanFenomen(/*kod*/) {
-  /*kod*/
+function platformaGoreCokGonderiYapanFenomen(fenomenlerDizisi, platformAdi) {
+  const test = [];
+  let maxGonderiSay = 0;
+  let enPop = "";
+
+  for (let i = 0; i < fenomenlerDizisi.length; i++) {
+    if (
+      fenomenlerDizisi[i].platform === platformAdi &&
+      maxGonderiSay < fenomenlerDizisi[i].posts &&
+      fenomenlerDizisi[i].post != "NA"
+    ) {
+      test.push(fenomenlerDizisi[i].profile);
+      maxGonderiSay = fenomenlerDizisi[i].posts;
+      enPop = fenomenlerDizisi[i].profile;
+    }
+  }
+  return enPop;
 }
+console.log(platformaGoreCokGonderiYapanFenomen(fenomenler, "TikTok"));
 
 /* ***** GÖREVLERİN SONU ***** */
 
-
-
 /*Bu satırdan sonra koda dokunmayın! */
 function sa() {
-  console.log('çalışıyor');
-  return 'as';
+  console.log("çalışıyor");
+  return "as";
 }
 sa();
 /*Bu satırdan sonra koda dokunmayın! */
@@ -331,5 +345,5 @@ module.exports = {
   fenomenEkle,
   enFenomenler,
   fenomenGonderimSayisi,
-  platformaGoreCokGonderiYapanFenomen
-}
+  platformaGoreCokGonderiYapanFenomen,
+};
